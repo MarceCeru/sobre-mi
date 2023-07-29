@@ -3,17 +3,29 @@
   h1 {
     color:blue;
      text-shadow: 3px 3px 1px black;
-      
-      
+     font-family: cursive;
+     text-align: center;
+
   }
+
 
   /*Agregar comentarios*/
 
   h2 {
     color:blueviolet;
+    font-family: cursive;
   }
 
   html {
     background-color: burlywood;
   }
+
+  .imagen{
+
+    width: 150px;
+
+  }
   
+  .contenedor{
+    text-align: center;
+  }
