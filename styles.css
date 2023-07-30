@@ -22,7 +22,8 @@
 
   .imagen{
 
-    width: 150px;
+  width: 150px;
+    border-radius: 50%;
 
   }
 
